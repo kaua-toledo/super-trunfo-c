@@ -112,6 +112,5 @@ int main(){
     printf("Pontos Túristicos: %d\n", pontos_turisticos2);
 
     return 0;
-
-
 }
+
