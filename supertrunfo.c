@@ -83,7 +83,9 @@ int main(){
     scanf(" %d", &pontos_turisticos2);
 
 
-    printf("\nCarta 2 cadastrada com sucesso!\n"); //informa o cadastro da segunda carta ao usuário
+    printf("\n===========================================\n");
+    printf(" SUAS CARTAS FORAM CADASTRADAS COM SUCESSO!\n");
+    printf("===========================================\n");
 
 
 
@@ -110,5 +112,6 @@ int main(){
     printf("Pontos Túristicos: %d\n", pontos_turisticos2);
 
     return 0;
+
 
 }
